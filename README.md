@@ -83,3 +83,7 @@ If you discover any security related issues, please email [gangwar.ramakant@gmai
 ## License
 
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
+
+## LinkLei
+
+Adicionado suporte a pacote "illuminate/support": "11" para o linklei.
